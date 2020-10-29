@@ -19,7 +19,7 @@ $("video").on("mouseleave",function(){
 
 $(".arrow1").on("click",function(){
 
-location.href='index.html';
+location.href='https://mayameapen123.github.io/thesis_site.github.io/';
 });
 
 $(".arrow1").mouseenter(function(){
